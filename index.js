@@ -11,3 +11,7 @@ function sayName(){
 function sayHello(){
   console.log("Hello");
 }
+
+function newFn(){
+  console.log("Hey I am a new fn");
+}
