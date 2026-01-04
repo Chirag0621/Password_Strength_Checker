@@ -17,3 +17,7 @@ function newFn(){
 function newFeatureAdd(){
    console.log('This is a new feat')
 }
+
+function Sululu(){
+  console.log('Hello sululu')
+}
